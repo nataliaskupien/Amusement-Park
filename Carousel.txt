@@ -1,0 +1,8 @@
+model.Attraction: Thunderbolt
+Price: 15.99
+Min age: 12
+
+model.Attraction: Animal carousel
+Price: 10.0
+Min age: 5
+

@@ -1,0 +1,4 @@
+model.Attraction: Thunderbolt
+Price: 15.99
+Min age: 12
+
